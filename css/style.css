@@ -562,9 +562,9 @@ video {
   max-height: 484px;
 }
 
-.max-h-\[457px\] {
+/* .max-h-\[457px\] {
   max-height: 457px;
-}
+} */
 
 .min-h-screen {
   min-height: 100vh;
