@@ -1099,16 +1099,6 @@ video {
   margin-bottom: 1rem;
 }
 
-.mx-\[17px\] {
-  margin-left: 17px;
-  margin-right: 17px;
-}
-
-.my-\[18px\] {
-  margin-top: 18px;
-  margin-bottom: 18px;
-}
-
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -1212,12 +1202,12 @@ video {
   display: none;
 }
 
-.h-\[280px\] {
-  height: 280px;
+.h-\[28\.5625\] {
+  height: 28.5625;
 }
 
-.h-\[484px\] {
-  height: 484px;
+.h-\[280px\] {
+  height: 280px;
 }
 
 .h-full {
@@ -1228,28 +1218,24 @@ video {
   height: 30.25rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .max-h-\[484px\] {
   max-height: 484px;
-}
-
-.max-h-full {
-  max-height: 100%;
-}
-
-.max-h-\[457px\] {
-  max-height: 457px;
-}
-
-.max-h-96 {
-  max-height: 24rem;
 }
 
 .min-h-screen {
   min-height: 100vh;
 }
 
-.w-\[315px\] {
-  width: 315px;
+.w-\[19\.625rem\] {
+  width: 19.625rem;
+}
+
+.w-\[280px\] {
+  width: 280px;
 }
 
 .w-\[this-is\\\\\] {
@@ -1268,20 +1254,8 @@ video {
   width: 100%;
 }
 
-.w-\[280px\] {
-  width: 280px;
-}
-
-.w-\[19\.625rem\] {
-  width: 19.625rem;
-}
-
 .max-w-\[314px\] {
   max-width: 314px;
-}
-
-.max-w-full {
-  max-width: 100%;
 }
 
 .flex-shrink {
@@ -2409,16 +2383,6 @@ video {
   padding-bottom: 18px;
 }
 
-.px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-.py-4 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 .pb-\[18px\] {
   padding-bottom: 18px;
 }
@@ -2491,16 +2455,6 @@ video {
   font-size: 22px;
 }
 
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -2511,10 +2465,6 @@ video {
 
 .font-semibold {
   font-weight: 600;
-}
-
-.font-extrabold {
-  font-weight: 800;
 }
 
 .uppercase {
@@ -3042,24 +2992,16 @@ video {
 }
 
 @media (min-width: 1440px) {
-  .lg\:h-\[457px\] {
-    height: 457px;
-  }
-
-  .lg\:h-\[28\.5625rem\] {
-    height: 28.5625rem;
+  .lg\:h-\[31rem\] {
+    height: 31rem;
   }
 
   .lg\:h-\[28\.5625\] {
     height: 28.5625;
   }
 
-  .lg\:w-\[314px\] {
-    width: 314px;
-  }
-
-  .lg\:w-\[19\.625rem\] {
-    width: 19.625rem;
+  .lg\:h-\[29rem\] {
+    height: 29rem;
   }
 }
 
