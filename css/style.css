@@ -2043,6 +2043,11 @@ video {
   padding-right: 18px;
 }
 
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .pb-\[18px\] {
   padding-bottom: 18px;
 }
