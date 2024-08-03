@@ -822,6 +822,10 @@ video {
   height: auto;
 }
 
+.h-\[280px\] {
+  height: 280px;
+}
+
 .max-h-\[484px\] {
   max-height: 484px;
 }
@@ -844,6 +848,22 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[280px\] {
+  width: 280px;
+}
+
+.w-\[8-\%\] {
+  width: 8-%;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
+.w-\[95\%\] {
+  width: 95%;
 }
 
 .max-w-\[314px\] {
@@ -1370,6 +1390,10 @@ video {
 
 .gap-\[14px\] {
   gap: 14px;
+}
+
+.gap-\[16px\] {
+  gap: 16px;
 }
 
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
