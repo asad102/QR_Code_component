@@ -1214,6 +1214,10 @@ video {
   height: 100%;
 }
 
+.h-\[484px\] {
+  height: 484px;
+}
+
 .max-h-\[484px\] {
   max-height: 484px;
 }
@@ -2996,6 +3000,10 @@ video {
 @media (min-width: 1440px) {
   .lg\:h-\[484px\] {
     height: 484px;
+  }
+
+  .lg\:h-\[457px\] {
+    height: 457px;
   }
 
   .lg\:w-\[314px\] {
