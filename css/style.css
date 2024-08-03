@@ -2135,6 +2135,10 @@ video {
   letter-spacing: 0.23px;
 }
 
+.tracking-normal {
+  letter-spacing: 0em;
+}
+
 .text-Darkblue {
   --tw-text-opacity: 1;
   color: hsl(218 44% 22% / var(--tw-text-opacity));
