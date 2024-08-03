@@ -715,6 +715,10 @@ video {
   clear: none;
 }
 
+.m-16 {
+  margin: 4rem;
+}
+
 .my-2 {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
@@ -1966,6 +1970,14 @@ video {
      object-fit: scale-down;
 }
 
+.p-16 {
+  padding: 4rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
 .px-1 {
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -2024,6 +2036,11 @@ video {
 .py-\[19px\] {
   padding-top: 19px;
   padding-bottom: 19px;
+}
+
+.px-\[18px\] {
+  padding-left: 18px;
+  padding-right: 18px;
 }
 
 .pb-\[18px\] {
