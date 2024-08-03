@@ -1222,6 +1222,10 @@ video {
   max-height: 484px;
 }
 
+.max-h-full {
+  max-height: 100%;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1252,6 +1256,10 @@ video {
 
 .max-w-\[314px\] {
   max-width: 314px;
+}
+
+.max-w-full {
+  max-width: 100%;
 }
 
 .flex-shrink {
