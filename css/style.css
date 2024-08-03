@@ -1210,6 +1210,10 @@ video {
   height: 457px;
 }
 
+.h-full {
+  height: 100%;
+}
+
 .max-h-\[484px\] {
   max-height: 484px;
 }
@@ -1236,6 +1240,10 @@ video {
 
 .w-\[weird-and-invalid\] {
   width: weird-and-invalid;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .max-w-\[314px\] {
