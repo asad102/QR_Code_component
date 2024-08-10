@@ -2349,11 +2349,6 @@ video {
   padding-right: 17px;
 }
 
-.py-4 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 .py-\[14px\] {
   padding-top: 14px;
   padding-bottom: 14px;
@@ -2364,8 +2359,16 @@ video {
   padding-bottom: 18px;
 }
 
+.pb-5 {
+  padding-bottom: 1.25rem;
+}
+
 .pb-\[18px\] {
   padding-bottom: 18px;
+}
+
+.pt-3 {
+  padding-top: 0.75rem;
 }
 
 .text-left {
