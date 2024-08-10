@@ -2324,10 +2324,6 @@ video {
      object-fit: scale-down;
 }
 
-.p-3\.5 {
-  padding: 0.875rem;
-}
-
 .px-1 {
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -2343,9 +2339,19 @@ video {
   padding-right: 1.25rem;
 }
 
+.px-\[15px\] {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .px-\[17px\] {
   padding-left: 17px;
   padding-right: 17px;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .py-\[14px\] {
@@ -2510,8 +2516,8 @@ video {
   font-variant-numeric: var(--tw-ordinal) var(--tw-slashed-zero) var(--tw-numeric-figure) var(--tw-numeric-spacing) var(--tw-numeric-fraction);
 }
 
-.leading-auto {
-  line-height: auto;
+.leading-tight {
+  line-height: 1.25;
 }
 
 .tracking-normal {
