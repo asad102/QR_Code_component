@@ -835,10 +835,6 @@ video {
   display: none;
 }
 
-.h-imgh {
-  height: 288px;
-}
-
 .max-h-\[484px\] {
   max-height: 484px;
 }
@@ -857,10 +853,6 @@ video {
 
 .w-\[weird-and-invalid\] {
   width: weird-and-invalid;
-}
-
-.w-imgw {
-  width: 288px;
 }
 
 .max-w-\[314px\] {

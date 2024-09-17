@@ -28,12 +28,6 @@ module.exports = {
       }
     },
     extend: {
-      width : {
-        imgw : '288px',
-      },
-      height : {
-        imgh : '288px'
-      },
       borderRadius : {
         br20 : '20px',
         br10 : '10px',
